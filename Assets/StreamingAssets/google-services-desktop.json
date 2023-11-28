@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598847209261",
+    "project_id": "mobileasteroids",
+    "storage_bucket": "mobileasteroids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598847209261:android:8d0b2315256f3c3c0d5da4",
+        "android_client_info": {
+          "package_name": "com.ITMOCompany.ClassicAsteroids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiPwafOa3bxBnhrui33n3QdnjkP8rpyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
